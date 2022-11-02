@@ -10,7 +10,7 @@ Gutter Width: 15px
 }
 
 .section:after {
-  content: ".";
+  content: '.';
   display: block;
   height: 0;
   clear: both;
