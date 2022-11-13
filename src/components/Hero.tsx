@@ -7,11 +7,8 @@ const Hero = () => {
         margin: 'auto',
         display: 'flex',
         justifyContent: 'center',
-        marginTop: '10px',
         height: '200px',
         position: 'relative',
-        //         border: "2px solid white",
-        // alignItems: "center"
       }}
     >
       <Image alt="Halloween pumpkins" src="/images/pumpkins.jpeg" fill />

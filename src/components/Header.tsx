@@ -5,16 +5,7 @@ const Header = () => {
   }
 
   return (
-    <header>
-      <h1>HEADER</h1>
-      <button
-        type="button"
-        onClick={handlePromotionClick}
-        style={{ backgroundColor: 'white' }}
-      >
-        Give me a promotion!
-      </button>
-    </header>
+
   )
 }
 
