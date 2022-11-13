@@ -14,8 +14,8 @@ const CostumeContent: React.FC<CostumeContentProps> = (props) => {
     <div style={{marginTop: "0.5em", marginBottom: "0.5em"}}>
       <Image
         src={section.image}
-        width={100}
-        height={150}
+        width={200}
+        height={300}
         alt={section.name}
       />
     </div>

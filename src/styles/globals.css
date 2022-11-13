@@ -131,12 +131,13 @@ button:hover {
   padding: 1em;
   border-radius: 2px;
   grid-column: span 1 / span 1;
-  height: 15rem;
-  width: 10rem;
+  height: auto;
+  width: 15rem;
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: space-around;
+  margin-bottom: 1rem;
 }
 
 .costumeCardContainer {

@@ -86,14 +86,14 @@ const Home: NextPage = () => {
         </div>
       </section>
       <footer>
-        <h1>FOOTER</h1>
         <button
           type="button"
           onClick={handleContactMe}
           style={{ backgroundColor: buttonColor }}
         >
-          Change color
+          Find your lucky color!
         </button>
+        <h6>McKompany Productions</h6>
       </footer>
     </div>
   )
